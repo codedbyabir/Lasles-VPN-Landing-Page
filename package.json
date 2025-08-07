@@ -1,0 +1,16 @@
+{
+  "name": "lasles-vpn-landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./style.css --watch"
+  },
+  "keywords": ["Lesles VPN" , "VPN"],
+  "author": "Abir",
+  "license": "ISC",
+  "description": "Lesles is a html template designed with Tailwind CSS 4",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
